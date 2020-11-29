@@ -1,12 +1,21 @@
+/* Override Default Styles on Page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Main Body Styles */
+
 body {
     background-color: #d9dcd6;
 }
+
+p {
+    font-size: 16px;
+}
+
+/* Header Styles */
 
 .header {
     padding: 20px;
@@ -23,6 +32,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Navigation Bar */
 
 .header nav {
     padding-top: 15px;
@@ -56,10 +67,7 @@ a:hover {
     text-decoration: underline; 
 }
 
-p {
-    font-size: 16px;
-}
-
+/* Hero Section */
 .hero {
     height: 800px;
     width: 100%;
@@ -68,6 +76,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Beneift Section */
 
 .benefits {
     margin-right: 20px;
@@ -95,6 +105,8 @@ p {
     margin: 10px auto; 
     max-width: 150px; 
 }
+
+/* Content Section */
 
 .content {
     width: 75%;
@@ -129,6 +141,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* Footer Section */
 
 .footer {
     padding: 30px;
