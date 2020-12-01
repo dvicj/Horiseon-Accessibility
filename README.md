@@ -1,17 +1,33 @@
 # Horiseon Accessibility Refractor 
 
-## Description 
+## Accessibility is Important! 
 
-WHAT: Horiseon is a marketing agency. They have expressed interest in making their website more accessible and easy to use for those with disabilities.
-WHY: Horiseon would like their website to be optomized for search engines and easy to use for people with disabilities. 
-HOW: Refract the code to meet accessibility standards such as: 
-	-alt attributes 
-	-header attributes that accurately describe the content of the webpage to assist with search engine optimization 
-	-a descriptive title
-Why am I working on this project? 
+Horiseon is a marketing agency, which specializes in making their clients web presence more meaningful and productive. They specialize in social media presence, search engine optimization, and online reputations. Horiseon has expressed interest in making their website more accessible and easy to use for those with disabilities. On the backend, they would like a more organized and purposeful code so that any future developers will have an easy transition in working with their website. Horiseon knows the importance of SEOs and how important user experience on a website can be. Horiseon also finds it important to protect themselves from any potential litigation from lack of accesibility. 
+<br>
+<br>
+It was my job to "refract" the code to meet common accessibility standards such as: 
+<br>
+	- alt attributes 
+<br>
+	- header attributes that accurately describe the content of the webpage to assist with search engine optimization 
+<br>
+	- a descriptive title
+<br>
+<br>
+While "refracting" the code, I was also tasked with making the code more organized, easy to understand and accessible to anyone who may be working on this project in the future. I did this by: 
+<br>
+	- updating all of elements to be more nuanced and specific 
+	<br>
+	- consolidating duplicate CSS values 
+	<br>
+	-added comments to the HTML and CSS documents to further organize the content and make it easier to understand
+	<br>
+	<br>
+
 I am working on this project because I believe that everyone should have equal access to the internet. 
-Just because someone has a disability, it does not mean that they shouldn't be able to enjoy the internet in a less meaningful and engaging way. 
+If someone is differently abled, it does not mean that they shouldn't be able to enjoy the internet in a meaningful and engaging way. 
 Improving the accessibility of this website will make it available to a portion of the population that it was not available to before. 
+
 
 Features: 
 
@@ -19,6 +35,7 @@ Features:
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
+* [What I Learned](#whatilearned)
 * [License](#license)
 
 
@@ -33,35 +50,16 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 
 ## Credits
+These are some sources I used to help me along:
 
-List your collaborators, if any, with links to their GitHub profiles.
+- [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
+- [HTML meta tag](https://www.w3schools.com/tags/tag_meta.asp)
 
+## What I Learned 
 
 
 ## License
 
 The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
-
-
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-
-## Contributing
-
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
