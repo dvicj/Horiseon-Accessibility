@@ -48,7 +48,7 @@ There is no installation required. All files must remain in the position in whic
 
 Provide instructions and examples for use. Include screenshots as needed. 
 
-![Showcasing working links](https://gph.is/g/EB1qKeG)
+![Showcasing working links](https://github.com/dvicj/Horiseon-Accessibility/blob/main/horiseon%20accessibility.gif)
 
 
 ## Credits
