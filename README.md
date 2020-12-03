@@ -43,10 +43,16 @@ Features:
 
 There is no installation required. All files must remain in the position in which they are saved to ensure that all links, styles and photos function properly. 
 
+Below are examples of the links for the CSS style sheet and the images used in this webpage. 
+
+![style sheet relative path](./style-sheet-relative-path.PNG)
+![image relative path](./image-relative-path.PNG)
+
+
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+In the gif included below, I have demonstrated how all of the bookmarks work. When the links in the navigation bar are clicked, they will jump to the corresponding section in the webpage. 
 
 ![Showcasing working links](https://github.com/dvicj/Horiseon-Accessibility/blob/main/horiseon%20accessibility.gif)
 
